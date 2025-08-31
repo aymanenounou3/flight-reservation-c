@@ -19,8 +19,6 @@ projet sdd/
 └─ Files/          # Daten (Textdateien: Logins, Flüge, Reservierungen, etc.)
 ```
 
-> Hinweis: Der Quellcode liegt in Header-Dateien (`.h`) für die Menü-Module. Für ein größeres Projekt empfiehlt sich eine Trennung in `.c` und `.h`, dieses Lernprojekt funktioniert jedoch so.
-
 ## Voraussetzungen
 - **Windows** (das Projekt nutzt `windows.h` und Konsolenfarben).
 - **GCC (MinGW)** oder **MSVC** zum Kompilieren.
