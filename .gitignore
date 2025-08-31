@@ -1,0 +1,18 @@
+# Build-Artefakte & Binärdateien
+*.exe
+*.dll
+*.o
+*.obj
+*.out
+*.log
+/build/
+/dist/
+
+# Editor-/OS-Kleinkram
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Falls du später Tests/Artefakte generierst
+coverage/
